@@ -7,15 +7,15 @@
 
 # ÖRNEKLEM SEÇİMİ
 
-**Kitle**
+## Kitle
 
 Kitle için, Hacettepe Üniversitesi’nin dört fakültesi ( İletişim $N_{İ}$= 212, Fen $N_{F}$ = 2960, Mühendislik $N_{M}$ = 6047, Eğitim $N_{E}$ = 4086) seçilmiştir. Kitle Büyüklüğü N = 13.305’tir.
 
-**Örneklem Genişliği**
+## Örneklem Genişliği
 
 %95 güven düzeyi ve %7 hoşgörü miktarı ile örneklem genişliği n = 200’dür.
 
-**Örnekleme Yöntemi**
+## Örnekleme Yöntemi
 
 Çalışma için en uygun örnekleme yöntemi olarak Tabakalı Örnekleme seçilmiştir.
 Dört tabakaya orantılı paylaşım yapıldığında İletişim fakültesindeki öğrenci sayısı diğerlerine göre çok daha az olduğu için tabaka örneklemi az çıkmaktadır.
