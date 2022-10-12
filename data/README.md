@@ -71,7 +71,6 @@
 <th align="center">haber24</th>
 <th align="center">arastirma</th>
 <th align="center">ders_acilsin_mi</th>
-<th align="center">performans_kotu</th>
 </tr>
 </thead>
 <tbody>
@@ -109,7 +108,6 @@
 <td align="center">1</td>
 <td align="center">2</td>
 <td align="center">Hayır</td>
-<td align="center">12</td>
 </tr>
 <tr class="even">
 <td align="center">Erkek</td>
@@ -145,7 +143,6 @@
 <td align="center">1</td>
 <td align="center">4</td>
 <td align="center">Evet</td>
-<td align="center">6</td>
 </tr>
 <tr class="odd">
 <td align="center">Erkek</td>
@@ -181,7 +178,6 @@
 <td align="center">1</td>
 <td align="center">3</td>
 <td align="center">Hayır</td>
-<td align="center">6</td>
 </tr>
 <tr class="even">
 <td align="center">Kadın</td>
@@ -217,7 +213,6 @@
 <td align="center">1</td>
 <td align="center">4</td>
 <td align="center">Evet</td>
-<td align="center">6</td>
 </tr>
 <tr class="odd">
 <td align="center">Erkek</td>
@@ -253,7 +248,6 @@
 <td align="center">1</td>
 <td align="center">3</td>
 <td align="center">Hayır</td>
-<td align="center">5</td>
 </tr>
 <tr class="even">
 <td align="center">Kadın</td>
@@ -289,7 +283,6 @@
 <td align="center">1</td>
 <td align="center">4</td>
 <td align="center">Evet</td>
-<td align="center">8</td>
 </tr>
 <tr class="odd">
 <td align="center">Kadın</td>
@@ -325,7 +318,6 @@
 <td align="center">0</td>
 <td align="center">4</td>
 <td align="center">Evet</td>
-<td align="center">9</td>
 </tr>
 <tr class="even">
 <td align="center">Erkek</td>
@@ -361,7 +353,6 @@
 <td align="center">0</td>
 <td align="center">3</td>
 <td align="center">Evet</td>
-<td align="center">8</td>
 </tr>
 <tr class="odd">
 <td align="center">Erkek</td>
@@ -397,7 +388,6 @@
 <td align="center">1</td>
 <td align="center">4</td>
 <td align="center">Evet</td>
-<td align="center">4</td>
 </tr>
 <tr class="even">
 <td align="center">Erkek</td>
@@ -433,7 +423,6 @@
 <td align="center">0</td>
 <td align="center">4</td>
 <td align="center">Hayır</td>
-<td align="center">11</td>
 </tr>
 </tbody>
 </table>
