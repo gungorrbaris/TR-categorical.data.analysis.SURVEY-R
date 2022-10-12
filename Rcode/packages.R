@@ -27,7 +27,7 @@ library(rcompanion)
 library(factoextra)
 
 
-## RxCcK
+## RxCxK
 library(vcdExtra)
 
 
