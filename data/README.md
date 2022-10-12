@@ -1,4 +1,4 @@
-### Verinin ilk 10 Gözlemi
+## Verinin ilk 10 Gözlemi
 <table style="width:100%;">
 <colgroup>
 <col width="2%" />
